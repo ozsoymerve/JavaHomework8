@@ -14,6 +14,7 @@ public class main {
 		ffp.isPrime(i);
 		}
 		}
+		else{System.out.println("Lütfen 1 den büyük bir sayý giriniz!!");}
 	}
 
 }
